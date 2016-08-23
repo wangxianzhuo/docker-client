@@ -13,4 +13,9 @@ hs_err_pid*
 
 .idea
 build
+gradlew*
+gradle
+.gradle
+
+
 
